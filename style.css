@@ -1,0 +1,44 @@
+.gradient-background {
+    background: linear-gradient(300deg, #000000, #ff6200, #ea0000);
+    background-size: 180% 180%;
+    animation: gradient-animation 16s ease infinite;
+    width: auto;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  #top{
+    height: auto;
+    width: auto;
+    background-color: #000000;
+  }
+  #g-manText{
+    font-family: 'Anton', sans-serif;
+    font-size: 7vh;
+    color: rgb(255, 255, 255);
+    text-align:center;
+  }
+  .centered {
+    position: absolute;
+    top: 40%; 
+    width: 100%;
+  }
+  .info-template{
+    background-color: #ff7b00;
+    height: 500px;
+  }
+  .card-frame{
+    background-color: black;
+    width: 200px;
+    height: 280px;
+    border-radius: 10%;
+  }
