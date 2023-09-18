@@ -42,3 +42,14 @@
     height: 280px;
     border-radius: 10%;
   }
+  .anton{
+    font-family: 'Anton', sans-serif;
+  }
+  .reviewBadges{
+    height: 45px !important;
+    width: 45px !important;
+    font-size: 24px !important;
+  }
+  .orangeBadge{
+    background-color: #ff7b00;
+  }
