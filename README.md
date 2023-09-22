@@ -1,6 +1,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Website
-<h1> That's a basic designed Half-Life Wikisite Main Page </h1>
+<h3> That's a basic designed Half-Life Wikisite Main Page </h3>
+
+<a href="https://erenxcolakx.github.io/Half-Life-WikiSite/"> Click to go to Website ✨ </a>
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/erenxcolakx/Half-Life-WikiSite/blob/main/images/Half-LifeSite.png)
 
